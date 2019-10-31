@@ -19,7 +19,7 @@ body {
 .login-div {
     filter: blur(0.4px);
     width: 430px;
-    height: 700px;
+    height: 590px;
     padding: 60px 35px 35px 35px;
     border-radius: 10px;
     background: radial-gradient(circle, #555555, #535353, #505050, #4e4e4e, #4c4c4c);
@@ -50,15 +50,15 @@ body {
 
 .title {
     text-align: center;
-    font-size: 28px;
-    padding-top: 7px;
+    font-size: 24px;
+    padding-top: 5px;
     letter-spacing: 0.5px;
 }
 
 .sub-title {
     text-align: center;
-    font-size: 15px;
-    padding-top: 7px;
+    font-size: 12px;
+    padding-top: 5px;
     letter-spacing: 3px;
     text-transform: uppercase;
     font-weight: bold;
@@ -66,28 +66,28 @@ body {
 
 .fields {
     width: 100%;
-    padding: 100px 5px 30px 5px;
+    padding: 90px 3px 25px 3px;
 }
 
 .fields input {
     border: none;
     outline: none;
     background: none;
-    font-size: 18px;
+    font-size: 15px;
     font-family: 'Lato', sans-serif;
     color: #f5ebeb;
-    padding: 10px 10px 10px 5px;
+    padding: 8px 8px 8px 3px;
 }
 
 .username, .password {
     display: block;
     border-bottom: 1px solid #e5e2e2;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
 }
 
 ::placeholder {
     color: #b2aeae;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 300;
 }
 
@@ -96,9 +96,9 @@ body {
     border: none;
     cursor: pointer;
     width: 100%;
-    height: 60px;
+    height: 50px;
     border-radius: 5px;
-    font-size: 22px;
+    font-size: 20px;
     font-family: 'Lato', sans-serif;
     color: #ffffff;
     text-align: center;
@@ -116,12 +116,12 @@ body {
 }
 
 .link {
-    padding-top: 20px;
+    padding-top: 15px;
     text-align: center;
 }
 
 .fields i {
-    height: 22px;
+    height: 20px;
     margin-bottom: -3px;
     margin-right: 10px;
     color: #ffffff;
@@ -130,7 +130,7 @@ body {
 .link a {
     text-decoration: none;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .link a:hover {
